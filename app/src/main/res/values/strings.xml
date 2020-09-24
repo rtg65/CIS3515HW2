@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SignUpForm</string>
+    <string name="email_example">Email@Example.com</string>
+    <string name="name_example">Username</string>
+    <string name="password">Password</string>
+    <string name="password_confirmation">Confirm Password</string>
+    <string name="save">Save</string>
+    <string name="save_title">Sign Up Form</string>
+    <string name="name_title">Username:</string>
+    <string name="password_title">Password:</string>
+    <string name="email_title">Email:</string>
+    <string name="passwordconf_title">Confirm your Passoword:</string>
+    <string name="unfilled">Missing Information</string>
+    <string name="shortpassword">Password needs to be at least 9 characters long</string>
+    <string name="nomatch">Passwords need to match</string>
+    <string name="validemail">Invalid E-mail</string>
+</resources>
